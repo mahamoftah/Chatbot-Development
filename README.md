@@ -1,4 +1,4 @@
-# 📌 Chatbot Development Assignment
+# 📌 Chatbot Development
 
 ## 🚀 Overview
 This project is a **document-based chatbot** that allows users to upload PDF files and ask questions based on the extracted content. The chatbot uses **LLM** to process user queries and provide relevant responses.
